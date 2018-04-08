@@ -14,11 +14,9 @@ V-REP robot simulation platform is need to open the  and run the code - http://w
 
 ## Maze
 
-| `Maze 1` | `Maze 2` | `Maze 3` |
-| --- | --- | --- |
-| ![maze1](https://user-images.githubusercontent.com/9040355/38472913-0df0b6e4-3b55-11e8-9783-50b03177f109.png) | 
-!![maze2](https://user-images.githubusercontent.com/9040355/38472918-2a78c1b2-3b55-11e8-8efa-20493a754194.png)| 
-![maze3](https://user-images.githubusercontent.com/9040355/38472923-424ef590-3b55-11e8-9001-c8d4165ec6c0.png) |
+![maze1](https://user-images.githubusercontent.com/9040355/38472913-0df0b6e4-3b55-11e8-9783-50b03177f109.png) 
+![maze2](https://user-images.githubusercontent.com/9040355/38472918-2a78c1b2-3b55-11e8-8efa-20493a754194.png)
+![maze3](https://user-images.githubusercontent.com/9040355/38472923-424ef590-3b55-11e8-9001-c8d4165ec6c0.png) 
 
 
 ## Description of code used and Algorithm
@@ -32,7 +30,7 @@ If both motors (wheels) turn at the same speed, the robot moves in a straight li
  If one wheel rotates faster than the other, the robot follows a curved path
  inward toward the slower wheel (see diagram below).
 
-[screen shot 2018-04-08 at 5 16 48 pm](https://user-images.githubusercontent.com/9040355/38472691-ce618ec0-3b51-11e8-95b4-ada67952f6ff.png)
+![screen shot 2018-04-08 at 5 16 48 pm](https://user-images.githubusercontent.com/9040355/38472691-ce618ec0-3b51-11e8-95b4-ada67952f6ff.png)
 
 ## Running the tests
 
@@ -47,32 +45,20 @@ The Robot logic operates as follows:
 
 ![screen shot 2018-04-08 at 5 26 41 pm](https://user-images.githubusercontent.com/9040355/38472720-1cc8d29e-3b52-11e8-96b3-fcbcac47612d.png)
 
-## Block Diagram
+## Result 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+| `Gathering Data` | `Gathering Data` | `Tomatoes` |
+| --- | --- | --- |
+| ![Logger](https://media.giphy.com/media/5bkD1YaJdWxgfp8efn/giphy.gif)| ![result2](https://user-images.githubusercontent.com/9040355/38418139-288f796a-3969-11e8-9f0b-184e409046ee.PNG) | ![result3](https://user-images.githubusercontent.com/9040355/38418165-49f556c4-3969-11e8-95d4-33723f65478a.PNG) |
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Maze 1: http://youtu.be/F0u08FTDqjM
+Maze 2: http://youtu.be/Kzz3qOdEo0Y
+Maze 3: http://youtu.be/0e4cQ_B3c8I
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Kenny Whyte** 
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
