@@ -16,9 +16,9 @@ V-REP robot simulation platform is need to open the  and run the code - http://w
 
 | `Maze 1` | `Maze 2` | `Maze 3` |
 | --- | --- | --- |
-| ![maze1](https://user-images.githubusercontent.com/9040355/38472762-ed2889b6-3b52-11e8-85ad-debcfbfd5268.png) | 
-!![maze2](https://user-images.githubusercontent.com/9040355/38472770-ff3d326e-3b52-11e8-938d-a3bc6256af79.png)| 
-!![maze3](https://user-images.githubusercontent.com/9040355/38472777-16efc64c-3b53-11e8-9632-43a96b954a6c.png) |
+| ![maze1](https://user-images.githubusercontent.com/9040355/38472913-0df0b6e4-3b55-11e8-9783-50b03177f109.png) | 
+!![maze2](https://user-images.githubusercontent.com/9040355/38472918-2a78c1b2-3b55-11e8-8efa-20493a754194.png)| 
+![maze3](https://user-images.githubusercontent.com/9040355/38472923-424ef590-3b55-11e8-9001-c8d4165ec6c0.png) |
 
 
 ## Description of code used and Algorithm
