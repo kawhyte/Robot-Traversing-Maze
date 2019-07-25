@@ -41,15 +41,8 @@ The Robot logic operates as follows:
 - If the robot bumps into the wall, then backup (reverse, while slightly turning right)
 - Then drive forward (with a slight right angle)
 
-## Flow Chart
 
-![screen shot 2018-04-08 at 5 26 41 pm](https://user-images.githubusercontent.com/9040355/38472720-1cc8d29e-3b52-11e8-96b3-fcbcac47612d.png)
-
-## Result 
-
-| `Gathering Data` | `Gathering Data` | `Tomatoes` |
-| --- | --- | --- |
-| ![Logger](https://media.giphy.com/media/5bkD1YaJdWxgfp8efn/giphy.gif)| ![result2](https://user-images.githubusercontent.com/9040355/38418139-288f796a-3969-11e8-9f0b-184e409046ee.PNG) | ![result3](https://user-images.githubusercontent.com/9040355/38418165-49f556c4-3969-11e8-95d4-33723f65478a.PNG) |
+## Result
 
 Maze 1: http://youtu.be/F0u08FTDqjM
 Maze 2: http://youtu.be/Kzz3qOdEo0Y
