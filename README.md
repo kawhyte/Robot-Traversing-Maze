@@ -44,9 +44,9 @@ The Robot logic operates as follows:
 
 ## Result
 
-Maze 1: http://youtu.be/F0u08FTDqjM
-Maze 2: http://youtu.be/Kzz3qOdEo0Y
-Maze 3: http://youtu.be/0e4cQ_B3c8I
+- Maze 1: http://youtu.be/F0u08FTDqjM
+- Maze 2: http://youtu.be/Kzz3qOdEo0Y
+- Maze 3: http://youtu.be/0e4cQ_B3c8I
 
 ## Authors
 
